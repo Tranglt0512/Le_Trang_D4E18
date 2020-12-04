@@ -1,0 +1,14 @@
+int(): Số nguyên
+float(): Số thập phân
+str(): chuỗi
+Input(): Không chạy thông điệp mà chạy khi mình gõ tiếp
+để lấy dữ liệu toán Import math => match.pi = pi, match.e = emath.sqrt(): căn bậc 2
+round(number,number_of_digit)
+Boolean datatype: True, False
+Conditional operators: <,==,>,<=,>=,!= (khác)
+If, else
+Boolean: if, true, false
+# Có ba kiểu range
+range stop: not 
+Range và việc tạo vòng lặp
+F
